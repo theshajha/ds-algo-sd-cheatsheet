@@ -46,6 +46,17 @@ A curated collection of Data Structures, Algorithms, and System Design concepts 
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 - [NeetCode](https://neetcode.io/)
+- [Algorithms Exhaustive List](https://github.com/prakhar1989/Algorithms)
+- [Data Structures and Algorithms Cheat Sheet](https://www.clear.rice.edu/comp160/data_cheat.html)
+- [Big O Notation](https://www.bigocheatsheet.com/)
+- [Tech Interview Cheat Sheet Repo](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Tech Interview Cheat Sheet](https://www.techinterviewhandbook.org/algorithms/sorting/)
+- [Tech Interview Study Plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+- [Tech Interview Grind 75 in 4 weeks](https://www.techinterviewhandbook.org/grind75/?hours=16&weeks=4)
+- [Skiena's Algorithms audio, video and lecture sides for 1997 and 2007](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+- [Damn Cool Algorithms](http://blog.notdot.net/tag/damn-cool-algorithms)
+- [Algorithms and Data Structures](https://www.youtube.com/watch?v=HtSuA80QTyo)
+- [VisualAlgo](https://visualgo.net/en)
 
 ### System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -58,19 +69,6 @@ Feel free to submit PRs for:
 - Additional practice problems
 - Improved explanations
 - New relevant resources
-
-## Helpful External Links
-- [Algorithms Exhaustive List](https://github.com/prakhar1989/Algorithms)
-- [Data Structures and Algorithms Cheat Sheet](https://www.clear.rice.edu/comp160/data_cheat.html)
-- [Big O Notation](https://www.bigocheatsheet.com/)
-- [Tech Interview Cheat Sheet Repo](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-- [Tech Interview Cheat Sheet](https://www.techinterviewhandbook.org/algorithms/sorting/)
-- [Tech Interview Study Plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
-- [Tech Interview Grind 75 in 4 weeks](https://www.techinterviewhandbook.org/grind75/?hours=16&weeks=4)
-- [Skiena's Algorithms audio, video and lecture sides for 1997 and 2007](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
-- [Damn Cool Algorithms](http://blog.notdot.net/tag/damn-cool-algorithms)
-- [Algorithms and Data Structures](https://www.youtube.com/watch?v=HtSuA80QTyo)
-- [VisualAlgo](https://visualgo.net/en)
 
 ## License
 MIT License - See LICENSE file for details
